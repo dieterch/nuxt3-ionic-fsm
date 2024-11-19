@@ -1,0 +1,7 @@
+{
+  "name": "nuxtfsm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
